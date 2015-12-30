@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//
 //Implementing the Java MongoDB Driver and Connecting to MongoDB Using Java
 
 package mongodb;
